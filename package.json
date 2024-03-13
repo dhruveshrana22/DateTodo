@@ -53,4 +53,7 @@
   "engines": {
     "node": ">=18"
   }
+  "scripts": {
+    "build": "npm run DateTodo"
+  }
 }
